@@ -1,0 +1,11 @@
+{
+    "name": "SGP/Lohner E1",
+    "alias": "Wiedeńczyk",
+    "manufacturer": "SGP/Lohner",
+    "capacity": 105,
+    "low_floor": 0,
+    "image": {
+        "url": "https://fotozajezdnia.pl/data/media/72/hw174-mistrzejowice-busik.jpg",
+        "copyright": "2017 Tomasz Bielecki"
+    }
+}

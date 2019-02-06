@@ -1,0 +1,11 @@
+{
+    "name": "MAN N8S",
+    "alias": "Düwag",
+    "manufacturer": "MAN",
+    "capacity": 161,
+    "low_floor": 1,
+    "image": {
+        "url": "",
+        "copyright": ""
+    }
+}

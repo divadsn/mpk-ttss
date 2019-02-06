@@ -1,0 +1,38 @@
+{
+    "PT": {
+        "name": "Zajezdnia Podgórze",
+        "operator": "MPK S.A. Kraków",
+        "last_update": "2019-01-25",
+        "source": "http://www.psmkms.krakow.pl/index.php/ciekawostki/krakowski-tabor/1218-zajezdnia-podgorze"
+    },
+    "PH": {
+        "name": "Zajezdnia Nowa Huta",
+        "operator": "MPK S.A. Kraków",
+        "last_update": "2019-01-25",
+        "source": "http://www.psmkms.krakow.pl/index.php/ciekawostki/krakowski-tabor/1219-zajezdnia-nowa-huta"
+    },
+    "PB": {
+        "name": "Zajezdnia Bieńczyce",
+        "operator": "MPK S.A. Kraków",
+        "last_update": "2019-01-12",
+        "source": "http://www.psmkms.krakow.pl/index.php/ciekawostki/krakowski-tabor/33-zajezdnia-bienczyce"
+    },
+    "PW": {
+        "name": "Zajezdnia Wola Duchacka",
+        "operator": "MPK S.A. Kraków",
+        "last_update": "2019-01-12",
+        "source": "http://www.psmkms.krakow.pl/index.php/ciekawostki/krakowski-tabor/35-tabor-autobusowy-7"
+    },
+    "PP": {
+        "name": "Zajezdnia Płaszów",
+        "operator": "MPK S.A. Kraków",
+        "last_update": "2019-01-12",
+        "source": "http://www.psmkms.krakow.pl/index.php/ciekawostki/krakowski-tabor/1817-zajezdnia-plaszow-2"
+    },
+    "Mobilis": {
+        "name": "Zajezdnia Na Załęczu",
+        "operator": "Mobilis Sp. z o.o.",
+        "last_update": "2018-10-13",
+        "source": "http://www.psmkms.krakow.pl/index.php/ciekawostki/krakowski-tabor/927-zajezdnia-na-zaleczu-mobilis-sp-z-o-o"
+    }
+}
